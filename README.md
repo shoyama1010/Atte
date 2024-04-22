@@ -1,1 +1,1 @@
-attendace-form
+Attendance(勤怠管理)
